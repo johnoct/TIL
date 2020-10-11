@@ -31,6 +31,7 @@ export {isAdult, canDrink, isSenior as Default};
 ```
 
 - `app.js`
+
 ```
 import isSenior, {isAdult, canDrink} from './person.js'
 ...
@@ -41,6 +42,7 @@ Note*: when you import the function, you can actually name it whatever if the fu
 eg.:
 
 - `app.js`
+
 ```
 import thisIsANewName, {isAdult, canDrink} from './person.js'
 ...
