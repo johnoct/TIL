@@ -18,5 +18,6 @@ Today I Learned
    - 📂 __reactjs__
      - 📄 [import\-export\-default.md](reactjs/import-export-default.md)
      - 📄 [localStorage.md](reactjs/localStorage.md)
+     - 📄 [normalize\-css.md](reactjs/normalize-css.md)
      - 📄 [reset\-input\-form\-value.md](reactjs/reset-input-form-value.md)
 
